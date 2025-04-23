@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.tyc</groupId>
+        <artifactId>Xiaohongshu_Change</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>xiaohongshu-framework</artifactId>
+    <packaging>pom</packaging>
+
+    <name>xiaohongshu-framework</name>
+    <url>http://maven.apache.org</url>
+    <modules>
+        <!-- 通用工具组件 -->
+        <module>xiaohongshu-common</module>
+        <module>xiaohongshu-spring-boot-biz-operationlog</module>
+        <module>xiaohongshu-context</module>
+        <module> xiaohongshu-spring-boot-jackson</module>
+    </modules>
+    <description>平台基础设施层：封装一些常用功能，供各个业务线拿来即用</description>
+</project>

@@ -1,0 +1,2 @@
+com.tyc.xiaohongshu.framework.context.config.ContextAutoConfiguration
+com.tyc.xiaohongshu.framework.context.config.FeignContextAutoConfiguration

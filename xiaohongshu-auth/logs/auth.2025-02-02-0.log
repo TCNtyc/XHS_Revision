@@ -1,0 +1,40 @@
+2025-02-02 14:33:01.299 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Starting XiaohongshuAuthApplicationTests using Java 17.0.12 with PID 27260 (started by Administrator in F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-auth)
+2025-02-02 14:33:01.300 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - The following 1 profile is active: "dev"
+2025-02-02 14:33:01.939 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userDOMapper' and 'com.tyc.xiaohongshu.auth.domain.mapper.UserDOMapper' mapperInterface. Bean already defined with the same name!
+2025-02-02 14:33:01.940 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.tyc.xiaohongshu.auth.domain.mapper]' package. Please check your configuration.
+2025-02-02 14:33:02.845 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-02-02 14:33:03.459 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-02-02 14:33:04.051 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Started XiaohongshuAuthApplicationTests in 3.194 seconds (process running for 4.01)
+2025-02-02 14:33:04.963 [main] DEBUG c.t.x.a.d.mapper.UserDOMapper.selectByPrimaryKey - ==>  Preparing: select id, username, create_time, update_time from t_user where id = ?
+2025-02-02 14:33:05.111 [main] DEBUG c.t.x.a.d.mapper.UserDOMapper.selectByPrimaryKey - ==> Parameters: 1(Long)
+2025-02-02 14:33:05.136 [main] DEBUG c.t.x.a.d.mapper.UserDOMapper.selectByPrimaryKey - <==      Total: 1
+2025-02-02 14:33:05.154 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-02-02 14:33:05.165 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-02-02 15:04:37.482 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Starting XiaohongshuAuthApplicationTests using Java 17.0.12 with PID 11860 (started by Administrator in F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-auth)
+2025-02-02 15:04:37.482 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Starting XiaohongshuAuthApplicationTests using Java 17.0.12 with PID 11860 (started by Administrator in F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-auth)
+2025-02-02 15:04:37.484 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - The following 1 profile is active: "dev"
+2025-02-02 15:04:37.484 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - The following 1 profile is active: "dev"
+2025-02-02 15:04:38.998 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-02-02 15:04:38.998 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-02-02 15:04:39.612 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-02-02 15:04:39.612 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-02-02 15:04:40.165 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Started XiaohongshuAuthApplicationTests in 3.073 seconds (process running for 4.022)
+2025-02-02 15:04:40.165 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Started XiaohongshuAuthApplicationTests in 3.073 seconds (process running for 4.022)
+2025-02-02 15:04:41.007 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-02-02 15:04:41.007 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-02-02 15:04:41.016 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-02-02 15:04:41.016 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-02-02 15:06:21.110 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Starting XiaohongshuAuthApplicationTests using Java 17.0.12 with PID 27280 (started by Administrator in F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-auth)
+2025-02-02 15:06:21.110 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Starting XiaohongshuAuthApplicationTests using Java 17.0.12 with PID 27280 (started by Administrator in F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-auth)
+2025-02-02 15:06:21.113 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - The following 1 profile is active: "dev"
+2025-02-02 15:06:21.113 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - The following 1 profile is active: "dev"
+2025-02-02 15:06:22.719 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-02-02 15:06:22.719 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2025-02-02 15:06:23.244 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-02-02 15:06:23.244 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2025-02-02 15:06:23.743 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Started XiaohongshuAuthApplicationTests in 3.007 seconds (process running for 3.835)
+2025-02-02 15:06:23.743 [main] INFO  c.t.x.auth.XiaohongshuAuthApplicationTests - Started XiaohongshuAuthApplicationTests in 3.007 seconds (process running for 3.835)
+2025-02-02 15:06:24.497 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-02-02 15:06:24.497 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2025-02-02 15:06:24.508 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2025-02-02 15:06:24.508 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed

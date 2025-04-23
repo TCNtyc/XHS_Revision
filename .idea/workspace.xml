@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0df775c-add9-4e9e-b498-0a78c6589c3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid28616.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/auth.2025-02-04-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/auth.2025-04-08-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/count.2025-02-22-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/count.2025-02-25-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/count.2025-02-26-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/count.2025-02-27-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/count.2025-04-08-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/distributed-id-generator.2025-02-14-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/distributed-id-generator.2025-02-22-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/distributed-id-generator.2025-02-25-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/distributed-id-generator.2025-02-26-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/distributed-id-generator.2025-02-27-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/distributed-id-generator.2025-04-08-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/kv.2025-02-13-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/note.2025-02-22-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/note.2025-02-25-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/note.2025-02-26-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/note.2025-02-27-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/note.2025-04-08-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/oss.2025-04-08-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user-relation.2025-02-22-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user-relation.2025-02-25-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user-relation.2025-02-26-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user-relation.2025-02-27-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user-relation.2025-04-08-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-10-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-11-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-12-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-13-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-14-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-16-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-22-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-25-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-26-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-02-27-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/user.2025-04-08-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/logs/auth.2025-02-02-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/alarm/AlarmConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/alarm/AlarmInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/alarm/impl/MailAlarmHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/alarm/impl/SmsAlarmHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/config/JacksonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/config/PasswordEncoderConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/config/RedisTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/config/ThreadPoolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/constant/RedisKeyConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/constant/RoleConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/controller/VerificationCodeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/enums/LoginTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/enums/ResponseCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/filter/HeaderUserId2ContextFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/filter/LoginUserContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/model/vo/user/UpdatePasswordReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/model/vo/user/UserLoginReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/model/vo/verificationcode/SendVerificationCodeReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/rpc/UserRpcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/service/VerificationCodeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/service/impl/AuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/service/impl/VerificationCodeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/sms/AliyunAccessKeyProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/sms/AliyunSmsClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/sms/AliyunSmsHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/resources/config/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/test/java/com/tyc/xiaohongshu/auth/DruidTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/test/java/com/tyc/xiaohongshu/auth/ThreadPoolTaskExecutorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/XiaohashuCountBizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/config/RedisTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/config/RocketMQConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/constant/MQConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/constant/RedisKeyConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/consumer/CountFans2DBConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/consumer/CountFansConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/consumer/CountFollowing2DBConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/consumer/CountFollowingConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/consumer/CountNoteCollect2DBConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/consumer/CountNoteCollectConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/consumer/CountNoteLike2DBConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/consumer/CountNoteLikeConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/consumer/CountNotePublishConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/enums/CollectUnCollectNoteTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/enums/FollowUnfollowTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/enums/LikeUnlikeNoteTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/model/dto/AggregationCountLikeUnlikeNoteMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/model/dto/CountCollectUnCollectNoteMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/model/dto/CountFollowUnfollowMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/model/dto/CountLikeUnlikeNoteMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/java/com/tyc/xiaohongshu/count/biz/domain/model/dto/NoteOperateMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/resources/config/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-count/xiaohongshu-count-biz/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-api/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/api/DistributedIdGeneratorFeignApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-api/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/constant/ApiConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/XiaohashuDistributedIdGeneratorBizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/constant/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/controller/LeafController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/controller/LeafMonitorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/IDGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/common/CheckVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/common/PropertyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/common/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/common/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/common/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/common/ZeroIDGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/segment/SegmentIDGenImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/segment/dao/IDAllocDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/segment/dao/IDAllocMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/segment/dao/impl/IDAllocDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/segment/model/LeafAlloc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/segment/model/Segment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/segment/model/SegmentBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/snowflake/SnowflakeIDGenImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/snowflake/SnowflakeZookeeperHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/snowflake/exception/CheckLastTimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/snowflake/exception/CheckOtherNodeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/core/snowflake/exception/ClockGoBackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/exception/InitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/exception/LeafServerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/exception/NoKeyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/model/SegmentBufferView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/service/SegmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/java/com/tyc/xiaohongshu/distributed/id/generator/biz/service/SnowflakeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/resources/config/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/resources/leaf.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-distributed-id-generator/xiaohongshu-distributed-id-generator-biz/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/constant/DateConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/constant/GlobalConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/eumns/DeletedEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/eumns/SexEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/eumns/StatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/exception/BaseExceptionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/exception/BizException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/response/PageResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/response/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/util/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/util/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/util/ParamUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/validator/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-common/src/main/java/com/tyc/xiaohongshu/framework/common/validator/PhoneNumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-context/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-context/src/main/java/com/tyc/xiaohongshu/framework/context/config/ContextAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-context/src/main/java/com/tyc/xiaohongshu/framework/context/config/FeignContextAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-context/src/main/java/com/tyc/xiaohongshu/framework/context/filter/HeaderUserId2ContextFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-context/src/main/java/com/tyc/xiaohongshu/framework/context/holder/LoginUserContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-context/src/main/java/com/tyc/xiaohongshu/framework/context/interceptor/FeignRequestInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-context/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-spring-boot-biz-operationlog/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-spring-boot-biz-operationlog/src/main/java/com/tyc/xiaohongshu/framework/common/aspect/ApiOperationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-spring-boot-biz-operationlog/src/main/java/com/tyc/xiaohongshu/framework/common/aspect/ApiOperationLogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-spring-boot-biz-operationlog/src/main/java/com/tyc/xiaohongshu/framework/common/config/ApiOperationLogAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-spring-boot-biz-operationlog/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-spring-boot-jackson/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-spring-boot-jackson/src/main/java/com/tyc/xiaohongshu/user/biz/jackson/config/JacksonAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-framework/xiaohongshu-spring-boot-jackson/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/java/com/tyc/xiaohongshu/user/gateway/XiaohongshuGatewayApplicaton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/java/com/tyc/xiaohongshu/user/gateway/auth/SaTokenConfigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/java/com/tyc/xiaohongshu/user/gateway/auth/StpInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/java/com/tyc/xiaohongshu/user/gateway/config/RedisTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/java/com/tyc/xiaohongshu/user/gateway/constant/RedisKeyConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/java/com/tyc/xiaohongshu/user/gateway/enums/ResponseCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/java/com/tyc/xiaohongshu/user/gateway/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/java/com/tyc/xiaohongshu/user/gateway/filter/AddUserId2HeaderFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-gateway/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-api/src/main/java/com/tyc/xiaohongshu/user/kv/api/KeyValueFeignApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-api/src/main/java/com/tyc/xiaohongshu/user/kv/constant/ApiConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-api/src/main/java/com/tyc/xiaohongshu/user/kv/dto/req/AddNoteContentReqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-api/src/main/java/com/tyc/xiaohongshu/user/kv/dto/req/DeleteNoteContentReqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-api/src/main/java/com/tyc/xiaohongshu/user/kv/dto/req/FindNoteContentReqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-api/src/main/java/com/tyc/xiaohongshu/user/kv/dto/rsp/FindNoteContentRspDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-api/src/main/java/com/tyc/xiaohongshu/user/kv/enums/ResponseCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-api/src/main/java/com/tyc/xiaohongshu/user/kv/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/logs/kv.2025-02-13-0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/java/com/tyc/xiaohongshu/user/kv/biz/XiaohashuKVBizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/java/com/tyc/xiaohongshu/user/kv/biz/config/CassandraConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/java/com/tyc/xiaohongshu/user/kv/biz/controller/NoteContentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/java/com/tyc/xiaohongshu/user/kv/biz/domain/dataobject/NoteContentDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/java/com/tyc/xiaohongshu/user/kv/biz/domain/repository/NoteContentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/java/com/tyc/xiaohongshu/user/kv/biz/service/NoteContentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/java/com/tyc/xiaohongshu/user/kv/biz/service/impl/NoteContentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/resources/config/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-kv/xiaohongshu-kv-biz/src/test/java/com/tyc/xiaohongshu/user/kv/biz/CassandraTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/XiaohashuNoteBizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/config/RedisTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/config/RocketMQConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/config/ThreadPoolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/constant/MQConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/constant/RedisKeyConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/consumer/CollectUnCollectNoteConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/consumer/CountNoteCollectConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/consumer/DeleteNoteLocalCacheConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/consumer/LikeUnlikeNoteConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/controller/NoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/dataobject/ChannelDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/dataobject/ChannelTopicRelDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/dataobject/NoteCollectionDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/dataobject/NoteLikeDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/dataobject/TopicDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/mapper/ChannelDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/mapper/ChannelTopicRelDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/mapper/NoteCollectionDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/mapper/NoteLikeDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/domain/mapper/TopicDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/CollectUnCollectNoteTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/LikeUnlikeNoteTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/NoteCollectLuaResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/NoteLikeLuaResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/NoteOperateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/NoteStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/NoteTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/NoteUnCollectLuaResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/NoteUnlikeLuaResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/NoteVisibleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/enums/ResponseCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/dto/CollectUnCollectNoteMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/dto/LikeUnlikeNoteMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/dto/NoteOperateMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/CollectNoteReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/DeleteNoteReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/FindNoteDetailReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/LikeNoteReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/PublishNoteReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/TopNoteReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/UnCollectNoteReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/UnlikeNoteReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/UpdateNoteReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/model/vo/UpdateNoteVisibleOnlyMeReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/rpc/DistributedIdGeneratorRpcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/rpc/FindNoteDetailRspVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/rpc/KeyValueRpcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/rpc/UserRpcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/service/NoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/java/com/tyc/xiaohongshu/note/biz/service/impl/NoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/config/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/batch_add_note_collect_zset_and_expire.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/batch_add_note_like_zset_and_expire.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/bloom_add_note_collect_and_expire.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/bloom_add_note_like_and_expire.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/bloom_batch_add_note_collect_and_expire.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/bloom_batch_add_note_like_and_expire.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/bloom_note_collect_check.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/bloom_note_like_check.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/bloom_note_uncollect_check.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/bloom_note_unlike_check.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/note_collect_check_and_update_zset.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/lua/note_like_check_and_update_zset.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/mapper/ChannelDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/mapper/ChannelTopicRelDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/mapper/NoteCollectionDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/mapper/NoteLikeDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-note/xiaohongshu-note-biz/src/main/resources/mapper/TopicDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-api/src/main/java/com/tyc/xiaohongshu/user/oss/api/FileFeignApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-api/src/main/java/com/tyc/xiaohongshu/user/oss/config/FeignFormConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-api/src/main/java/com/tyc/xiaohongshu/user/oss/constant/ApiConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/XiaohongshuOssBizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/config/AliyunOSSConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/config/AliyunOSSProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/config/MinioConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/config/MinioProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/controller/TestFeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/fatory/FileStrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/service/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/service/impl/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/strategy/FileStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/strategy/impl/AliyunOSSFileStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/java/com/tyc/xiaohongshu/user/oss/strategy/impl/MinioFileStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/resources/config/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-oss/xiaohongshu-oss-biz/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/XiaohashuUserRelationBizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/config/FollowUnfollowMqConsumerRateLimitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/config/RedisTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/config/RocketMQConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/constant/MQConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/constant/RedisKeyConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/consumer/FollowUnfollowConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/controller/RelationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/enums/FollowUnfollowTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/enums/LuaResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/enums/ResponseCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/model/dto/CountFollowUnfollowMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/model/dto/FollowUserMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/model/dto/UnfollowUserMqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/model/vo/FindFansListReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/model/vo/FindFansUserRspVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/model/vo/FindFollowingListReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/model/vo/FindFollowingUserRspVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/model/vo/FollowUserReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/model/vo/UnfollowUserReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/rpc/UserRpcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/service/RelationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/java/com/tyc/xiaohongshu/user/relation/biz/service/impl/RelationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/config/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/lua/follow_add_and_expire.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/lua/follow_batch_add_and_expire.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/lua/follow_check_and_add.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/lua/follow_check_and_update_fans_zset.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/main/resources/lua/unfollow_check_and_delete.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user-relation/xiaohongshu-user-relation-biz/src/test/java/com/tyc/xiaohongshu/user/relation/biz/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/src/main/java/com/tyc/xiaohongshu/user/api/UserFeignApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/src/main/java/com/tyc/xiaohongshu/user/constant/ApiConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/src/main/java/com/tyc/xiaohongshu/user/dto/req/FindUserByIdReqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/src/main/java/com/tyc/xiaohongshu/user/dto/req/FindUserByPhoneReqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/src/main/java/com/tyc/xiaohongshu/user/dto/req/FindUsersByIdsReqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/src/main/java/com/tyc/xiaohongshu/user/dto/req/RegisterUserReqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/src/main/java/com/tyc/xiaohongshu/user/dto/req/UpdateUserPasswordReqDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/src/main/java/com/tyc/xiaohongshu/user/dto/resp/FindUserByIdRspDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-api/src/main/java/com/tyc/xiaohongshu/user/dto/resp/FindUserByPhoneRspDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/XiaohongshuUserBizApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/config/JacksonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/config/PasswordEncoderConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/config/RedisTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/config/ThreadPoolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/constant/RedisKeyConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/constant/RoleConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/dataobject/PermissionDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/dataobject/RoleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/dataobject/RolePermissionDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/dataobject/UserDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/dataobject/UserRoleDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/mapper/PermissionDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/mapper/RoleDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/mapper/RolePermissionDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/mapper/UserDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/domain/mapper/UserRoleDOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/enums/ResponseCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/enums/SexEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/model/vo/UpdateUserInfoReqVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/rpc/DistributedIdGeneratorRpcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/rpc/OssRpcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/runner/PushRolePermissions2RedisRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/java/com/tyc/xiaohongshu/user/biz/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/config/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/config/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/mapper/PermissionDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/mapper/RoleDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/mapper/RolePermissionDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/mapper/UserDOMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xiaohongshu-user/xiaohongshu-user-biz/src/main/resources/mapper/UserRoleDOMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaohongshu-auth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xiaohongshu-auth/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshuauth/XiaohongshuAuthApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshu/auth/XiaohongshuAuthApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshuauth/demos/web/BasicController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshuauth/demos/web/PathVariableController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaohongshu-auth/src/main/java/com/tyc/xiaohongshuauth/demos/web/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xiaohongshu-auth/src/test/java/com/tyc/xiaohongshuauth/XiaohongshuAuthApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2t87BikRPCGpR40lsWgu4jjF5vh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Data/javaCode/Xiaohongshu_Change&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-count\xiaohongshu-count-biz\src\main" />
+      <recent name="F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-count\xiaohongshu-count-biz\src\main\java\com\tyc\xiaohongshu\count\biz" />
+      <recent name="F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-user-relation\xiaohongshu-user-relation-biz\src\main\java\com\tyc\xiaohongshu\user\relation\biz\model\vo" />
+      <recent name="F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-user-relation\xiaohongshu-user-relation-biz\src\main\resources\config" />
+      <recent name="F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-user-relation\xiaohongshu-user-relation-biz\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Data\javaCode\Xiaohongshu_Change\xiaohongshu-user-relation\xiaohongshu-user-relation-biz\src\main\resources\config" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tyc.xiaohongshu.note.biz" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tyc.xiaohongshu.count.biz.domain.consumer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.XiaohashuCountBizApplication">
+    <configuration name="XiaohashuCountBizApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xiaohongshu-count-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tyc.xiaohongshu.count.biz.domain.XiaohashuCountBizApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyc.xiaohongshu.count.biz.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaohashuDistributedIdGeneratorBizApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xiaohongshu-distributed-id-generator-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tyc.xiaohongshu.distributed.id.generator.biz.XiaohashuDistributedIdGeneratorBizApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaohashuNoteBizApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xiaohongshu-note-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tyc.xiaohongshu.note.biz.XiaohashuNoteBizApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyc.xiaohongshu.note.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaohashuUserRelationBizApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xiaohongshu-user-relation-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tyc.xiaohongshu.user.relation.biz.XiaohashuUserRelationBizApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyc.xiaohongshu.user.relation.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaohongshuAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xiaohongshu-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tyc.xiaohongshu.auth.XiaohongshuAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaohongshuGatewayApplicaton" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xiaohongshu-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tyc.xiaohongshu.user.gateway.XiaohongshuGatewayApplicaton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyc.xiaohongshu.user.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaohongshuOssBizApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xiaohongshu-oss-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tyc.xiaohongshu.user.oss.XiaohongshuOssBizApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XiaohongshuUserBizApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xiaohongshu-user-biz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tyc.xiaohongshu.user.biz.XiaohongshuUserBizApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tyc.xiaohongshu.user.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.XiaohashuDistributedIdGeneratorBizApplication" />
+      <item itemvalue="Spring Boot.XiaohongshuAuthApplication" />
+      <item itemvalue="Spring Boot.XiaohongshuOssBizApplication" />
+      <item itemvalue="Spring Boot.XiaohashuCountBizApplication" />
+      <item itemvalue="Spring Boot.XiaohashuNoteBizApplication" />
+      <item itemvalue="Spring Boot.XiaohashuUserRelationBizApplication" />
+      <item itemvalue="Spring Boot.XiaohongshuUserBizApplication" />
+      <item itemvalue="Spring Boot.XiaohongshuGatewayApplicaton" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.XiaohashuCountBizApplication" />
+        <item itemvalue="Spring Boot.XiaohongshuUserBizApplication" />
+        <item itemvalue="Spring Boot.XiaohashuUserRelationBizApplication" />
+        <item itemvalue="Spring Boot.XiaohashuNoteBizApplication" />
+        <item itemvalue="Spring Boot.XiaohongshuGatewayApplicaton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0df775c-add9-4e9e-b498-0a78c6589c3d" name="Changes" comment="" />
+      <created>1739721716053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739721716053</updated>
+      <workItem from="1739721718934" duration="401000" />
+      <workItem from="1739753075182" duration="26693000" />
+      <workItem from="1739795126284" duration="304000" />
+      <workItem from="1739795570560" duration="121000" />
+      <workItem from="1739801091430" duration="3687000" />
+      <workItem from="1739843611084" duration="4224000" />
+      <workItem from="1739873293276" duration="10148000" />
+      <workItem from="1739928305303" duration="12666000" />
+      <workItem from="1739946621436" duration="107000" />
+      <workItem from="1739946864886" duration="202000" />
+      <workItem from="1739950684844" duration="2434000" />
+      <workItem from="1739974963554" duration="130000" />
+      <workItem from="1739975103223" duration="1134000" />
+      <workItem from="1739976439519" duration="141000" />
+      <workItem from="1740014313675" duration="10747000" />
+      <workItem from="1740115288652" duration="277000" />
+      <workItem from="1740115714227" duration="3460000" />
+      <workItem from="1740124462627" duration="1774000" />
+      <workItem from="1740126403349" duration="22460000" />
+      <workItem from="1740490047083" duration="519000" />
+      <workItem from="1740490768655" duration="94000" />
+      <workItem from="1740490875613" duration="652000" />
+      <workItem from="1740533343800" duration="1575000" />
+      <workItem from="1741102791077" duration="4069000" />
+      <workItem from="1741358296484" duration="3303000" />
+      <workItem from="1741417213631" duration="187000" />
+      <workItem from="1741671716955" duration="8398000" />
+      <workItem from="1741750304034" duration="5460000" />
+      <workItem from="1742483747725" duration="177000" />
+      <workItem from="1743043316756" duration="637000" />
+      <workItem from="1743429458015" duration="20000" />
+      <workItem from="1743836935045" duration="9631000" />
+      <workItem from="1744183376638" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.lua" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
